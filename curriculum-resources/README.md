@@ -7,6 +7,7 @@
 * [HTML](#html)
 * [CSS](#css)
 * [Git](#git)
+* [Bootstrap](#bootstrap)
 
 ## Command Line
 
@@ -373,3 +374,58 @@
 	* ```
 		git filter-branch -f --commit-filter 'if [ "$GIT_AUTHOR_NAME" = "erroneous author name" ]; then export GIT_AUTHOR_NAME="Name you want"; export GIT_AUTHOR_EMAIL=emailyouwant@email.com; fi; if [ "$GIT_COMMITTER_NAME" = "erroneous commit name here" ]; then export GIT_COMMITTER_NAME="NAME YOU WANT"; export GIT_COMMITTER_EMAIL=youremailhere@email.com; fi; git commit-tree "$@"'  
 	 ```
+
+## Bootstrap
+
+* [Bootstrap](http://getbootstrap.com/getting-started/)
+  
+  * Official documentation for Bootstrap and actually has a simplified format for reference and use. 
+  
+  * Skill Level: Beginner * Intermediate
+  
+  * Pros
+    
+    * Free.
+    
+    * Has plenty of examples and an easy-to-use interface for implementing Bootstrap code.
+  
+  * Cons
+    
+    * Doesn’t do a good job with tutorials, since it’s more of a reference guide.
+  
+  * Who is it good for?
+    
+    * Beginners and advanced users looking for a great reference.
+
+* [FreeCodeCamp](https://www.freecodecamp.com/map-aside#nested-collapseResponsiveDesignwithBootstrap)
+  
+  * FreeCodeCamp is a free, highly modularized source for learning Full-Stack development. It includes a number of introductory modules built for using Bootstrap. 
+  
+  * Skill Level: Beginner
+  
+  * Pros
+    
+    * Very modularized content that takes students from beginning to end on learning certain concepts.
+    
+    * Easy to use.
+    
+    * Lots of online resources and community to help with problems.
+    
+    * Students are rewarded with points for each small module.
+    
+    * Sample project specs are included for students to implement on their own.
+    
+    * Free.
+  
+  * Cons
+    
+    * Modules are limited and only cover basics of Bootstrap.
+    
+    * FreeCodeCamp doesn’t mention how Bootstrap files should be linked or how to implement a Bootstrap template into an application. Only covers absolute basics of Bootstrap.
+  
+  * Who is it good for?
+    
+    * Good for those wanting an introduction to Bootstrap. Can be a good supplemental guide to using alongside curriculum, but doesn’t do a great job of setting up Bootstrap in your application. 
+
+* [W3Schools](#w3schools)
+* [Team Treehouse](#teamtreehouse)
