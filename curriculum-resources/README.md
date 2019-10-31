@@ -7,6 +7,7 @@
 * [HTML](#html)
 * [CSS](#css)
 * [Git](#git)
+* [Bootstrap](#bootstrap)
 
 ## Command Line
 
