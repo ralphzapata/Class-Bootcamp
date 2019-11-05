@@ -8,6 +8,7 @@
 * [CSS](#css)
 * [Git](#git)
 * [Bootstrap](#bootstrap)
+* [Front-End JavaScript](#front-end-javascript)
 
 ## Command Line
 
@@ -429,3 +430,230 @@
 
 * [W3Schools](#w3schools)
 * [Team Treehouse](#teamtreehouse)
+
+
+## Front-End JavaScript
+
+* [Programming Foundations: Fundamentals](https://www.lynda.com/Programming-Foundations-tutorials/Foundations-Programming-Fundamentals/83603-2.html) - Uploaded by @kanwisher
+  
+  * This course provides the core knowledge to begin programming in any language. 
+  
+  * Skill Level: Beginner
+  
+  * Pros 
+
+    * No previous knowledge required.
+    
+    * Lynda is free in certain cities (through the library).
+    
+    * Great instructor / video series often recommended online
+  
+  * Cons
+    
+    * Limited for those wanting to learn advanced JavaScript.
+    
+    * Not always free
+  
+  * Who is it good for?
+    
+    * Those wanting to learn programming fundamentals, especially those who may have trouble thinking programmatically
+
+* [CodeCademy](https://www.codecademy.com/learn/javascript)
+  
+  * Codecademy’s JavaScript module takes the user step-by-step on using and learning the basics of JavaScript. 
+  
+  * Skill Level: Beginner
+  
+  * Pros 
+    
+    * Step-by-step tutorials make it good for beginners to understand the flow.
+    
+    * No previous knowledge required.
+    
+    * Free.
+    
+    * Great UI and easy to use.
+    
+    * Lots of online resources and community to help with problems.
+  
+  * Cons
+    
+    * Since it is step-by-step, students aren’t forced to learn how to implement what they learn into a “real” application using just a text editor and a browser. 
+    
+    * Limited for those wanting to learn advanced JavaScript.
+    
+    * Sometimes buggy.
+  
+  * Who is it good for?
+    
+    * Those learning basics of JavaScript.
+
+* [FreeCodeCamp](https://www.freecodecamp.com/)
+  
+  * FreeCodeCamp is a free, highly modularized source for learning Full-Stack development. It includes a number of modules built for JavaScript learning, including lots of algorithm practice. 
+  
+  * Skill Level: Beginner * Advanced
+  
+  * Pros 
+    
+    * Step-by-step tutorials make it good for beginners to understand the flow.
+    
+    * No previous knowledge required.
+    
+    * Free.
+    
+    * Lots of online resources and community to help with problems.
+    
+    * Plenty of algorithms across beginner to advanced levels allow for practice in vanilla JavaScript and common CS problems. 
+    
+    * JavaScript lingo section takes you through certain aspects of learning different parts of JavaScript.
+    
+    * Includes projects for students to complete to help them understand front-end projects. 
+  
+  * Cons
+    
+    * Since it is step-by-step, students aren’t forced to learn how to implement what they learn into a “real” application using just a text editor and a browser. 
+    
+    * Answers for projects are subjective in implementation.
+    
+    * Many algorithms and exercises require outside research, which can be good, but students might get frustrated. 
+  
+  * Who is it good for?
+    
+    * Those looking for a supplemental resource for learning JavaScript through a Bootcamp curriculum. It can be a great resource for learning the basics and practicing JavaScript via algorithms. 
+
+* [Team Treehouse](#teamtreehouse)
+
+* [Pluralsight JS Fundamentals](https://www.pluralsight.com)
+  
+  * Pluralsight is a video-based tutorial site with plenty of Intermediate * Advanced learning modules. Pluralsight has a JavaScript skill review system that determines how much users have progressed based on questions answered correctly. The mobile app also for video downloads. The JS Fundamentals course is the module being reviewed. 
+  
+  * Pros
+    
+    * Great for understanding JavaScript on an intermediate level.
+    
+    * Video-based, so it’s great for visual learners. 
+  
+  * Cons
+    
+    * Costs about $30 a month. 
+    
+    * Can be difficult for those without a programming background.
+    
+    * Doesn’t contain exercises for users to complete on their own.
+  
+  * Who is it good for?
+    
+    * Those with $30 a month to spare who are looking for a good supplemental resource while learning JavaScript in the program. 
+
+* [Pluralsight * Advanced Techniques in JavaScript and jQuery](https://www.pluralsight.com)
+  
+  * Series of video modules explaining advanced concepts in JavaScript and jQuery.
+  
+  * Pros
+    
+    * Great for advanced learners wanting to learn the nuances of JavaScript.
+  
+  * Cons
+    
+    * Costs about $30 a month. 
+    
+    * Can be very challenging for students to understand. 
+    
+    * Doesn’t contain exercises for users to complete on their own.
+  
+  * Who is it good for?
+    
+    * Students who have completed the program or for students with prior experience in JavaScript or programming. 
+
+* [Rapid JavaScript Training](https://www.pluralsight.com)
+  
+  * Series of video modules explaining JavaScript at a fast pace.
+  
+  * Pros
+    
+    * Great for learning JavaScript concepts quickly.
+  
+  * Cons
+    
+    * Costs about $30 a month. 
+    
+    * Can be very challenging for students to understand. 
+    
+    * Doesn’t contain exercises for users to complete on their own.
+  
+  * Who is it good for?
+    
+    * Those with previous experience in object-oriented languages who are willing to spend $30 a month. 
+
+* [JavaScript Objects and Prototypes](https://www.pluralsight.com)
+  
+  * Series of video modules explaining JavaScript at a fast pace.
+  
+  * Pros
+    
+    * Great for understanding Prototypes and Objects in JavaScript.
+  
+  * Cons
+    
+    * Costs about $30 a month. 
+  
+  * Can be a bit challenging to understand.
+    
+    * Doesn’t contain exercises for users to complete on their own.
+  
+  * Who is it good for?
+    
+    * Those who want to understand the object-oriented and prototypal nature of JavaScript and are willing to spend $30 a month. 
+
+* [JavaScript Learn X in Y Minutes](https://learnxinyminutes.com/docs/javascript/)
+
+* [Code School](https://www.codeschool.com/learn/javascript)
+
+* [MDN JavaScript Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
+
+* Secrets of the JavaScript Ninja * book.
+  
+  * More than ever, the web is a universal platform for all types of applications, and JavaScript is the language of the web. If you're serious about web development, it's not enough to be a decent JavaScript coder. You need to be ninja-stealthy, efficient, and ready for anything. This book shows you how.
+
+* JavaScript and jQuery: Interactive Front-End Web Development * book
+  
+  * By the end of the book, not only will you be able to use the thousands of scripts, JavaScript APIs, and jQuery plugins that are freely available on the web, and be able to customize them * you will also be able to create your own scripts from scratch.
+
+* [JavaScript Subtopics](http://bitwiseguy.net/category/javascript/)  
+  
+  * Blog by UCLAX Bootcamp graduate, Jeff Magil. Goes over various JavaScript concepts, breaking them down and providing code examples. Topics include callbacks, constants in ES6, returning values with functions, writing functions in different ways, using `let` in ES6, and compiling JS.
+  
+  * Pros
+    
+    * Free.
+    
+    * Easy to understand.
+    
+    * Small and digestible within minutes.
+  
+  * Cons
+    
+    * Not meant to be comprehensive.
+  
+  * Who is it good for?
+    
+    * Anyone that wants to quickly learn certain concepts in JavaScript. Not comprehensive, but great for what it does.
+
+* [JS Interview Q/A](https://www.youtube.com/watch?v=GvE7xMZxAsU)
+
+  * 27-minute video on various JavaScript Interview Questions with answers provided. 
+
+  * Pros
+  
+    * Free.
+  
+    * Quick.
+  
+  * Cons
+  
+    * Not comprehensive.
+  
+  * Who is it good for?
+  
+    * Students wanting to get some good interview questions in.
