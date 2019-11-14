@@ -16,7 +16,18 @@
             // Input: 10
             // Output: 55
             
-            var sum = function(param) {}
+            var sum = function(param) {
+                var x = 0;
+
+                for(var i=1; i<= param; i++) {
+                    x = x + i;
+                }
+
+                return x;
+            }
+
+            console.log(sum(5));
+            console.log(sum(8));
         </script>
     </body>
 </html>
