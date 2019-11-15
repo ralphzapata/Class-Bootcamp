@@ -8,7 +8,7 @@ var bodyEl = document.createElement("div");
 
 var i = 0;
 
-var wordsPerMillisecond = prompt("How many words per millisecond would you like to read?");
+var wordsPerMillisecond = prompt("How many milliseconds per word would you like to have?");
 
 function prepareRead() {
   var timeLeft = 5;
